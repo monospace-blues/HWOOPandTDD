@@ -1,0 +1,22 @@
+{
+  "name": "hwoopandtdd",
+  "version": "1.0.0",
+  "description": "Project for creating an HTML page using Object-Oriented Programming and TDD (test-driven development)",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiempoAutomata/HWOOPandTDD.git"
+  },
+  "author": "Christian Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiempoAutomata/HWOOPandTDD/issues"
+  },
+  "homepage": "https://github.com/tiempoAutomata/HWOOPandTDD#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
