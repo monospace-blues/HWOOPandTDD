@@ -178,15 +178,15 @@ async function questionsLoop () {
             // push to employeeArray
             employeeArray.push(engineer);
         }
+        // if "no more employees", we are done with the loop.
         else if (res.choice === "No more employees") {
             donewith = true;
-            console.log(employeeArray);
             
         }
 
     }
 
-    // once done,
+    // Once done,
     // retrieve html block and put it into a variable (htmlText)
     let htmlText = render(employeeArray);
 
