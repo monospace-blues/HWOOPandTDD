@@ -9,4 +9,4 @@ This is a node application to create a html page from the users inputs. It will 
 
 If **Intern** is selected, we'll ask the user five questions (their name, ID number, Email, and school name) and ask again whether to add another employee. If **Engineer** is selected, we'll ask the same five questions (their name, ID number, Email and Github username) and ask again if they want to add another employee.
 
-If **No more employees** is selected, the questions will end and the application will generate an html page with the users input. You can access the html page in the output folder.
+If **No more employees** is selected, the questions will end and the application will generate an html page with the users input. You can access the html page in the output folder (called "team.html"). You can check the example in the output folder.
